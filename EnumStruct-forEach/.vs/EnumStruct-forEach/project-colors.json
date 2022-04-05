@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "41cf9593-d65b-4cd9-bf3e-6ee802ad28df": {
+      "ProjectGuid": "41cf9593-d65b-4cd9-bf3e-6ee802ad28df",
+      "DisplayName": "EnumStruct-forEach",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
