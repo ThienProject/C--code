@@ -75,7 +75,7 @@ namespace EnumStruct_forEach
             SV.DiemLy260 = Double.Parse(Console.ReadLine());
             Console.Write(" Diem van: ");
             SV.DiemVan260 = Double.Parse(Console.ReadLine());
-            Console.Write("GIoi TInh: nam/nu");
+            Console.Write("Gioi TInh: nam/nu: ");
             SV.GioiTinh260 =  (Console.ReadLine()) == "nam" ? GioiTinh.Nam : GioiTinh.Nu;
             SV.DiemTB260 = (SV.DiemToan260 + SV.DiemVan260 + SV.DiemLy260) / 3;
             return SV;

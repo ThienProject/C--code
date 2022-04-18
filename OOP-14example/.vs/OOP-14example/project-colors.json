@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64697bef-5628-492b-a874-f2c2022acc4c": {
+      "ProjectGuid": "64697bef-5628-492b-a874-f2c2022acc4c",
+      "DisplayName": "OOP-14example",
+      "ColorIndex": 0
+    },
+    "97b482f4-3abf-487c-8998-e574e9bc5e15": {
+      "ProjectGuid": "97b482f4-3abf-487c-8998-e574e9bc5e15",
+      "DisplayName": "example-2",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "089d4ffa-56dc-4b8a-ac3e-7bb05637d476": {
+      "ProjectGuid": "089d4ffa-56dc-4b8a-ac3e-7bb05637d476",
+      "DisplayName": "example-1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

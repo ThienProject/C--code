@@ -6,3 +6,11 @@ D:\MY FILE\Documents\school\C#\EnumStruct-forEach\EnumStruct-forEach\obj\Debug\E
 D:\MY FILE\Documents\school\C#\EnumStruct-forEach\EnumStruct-forEach\obj\Debug\EnumStruct-forEach.csproj.CoreCompileInputs.cache
 D:\MY FILE\Documents\school\C#\EnumStruct-forEach\EnumStruct-forEach\obj\Debug\EnumStruct-forEach.exe
 D:\MY FILE\Documents\school\C#\EnumStruct-forEach\EnumStruct-forEach\obj\Debug\EnumStruct-forEach.pdb
+D:\MY FILE\Documents\school\C#\C--code\EnumStruct-forEach\EnumStruct-forEach\bin\Debug\EnumStruct-forEach.exe.config
+D:\MY FILE\Documents\school\C#\C--code\EnumStruct-forEach\EnumStruct-forEach\bin\Debug\EnumStruct-forEach.exe
+D:\MY FILE\Documents\school\C#\C--code\EnumStruct-forEach\EnumStruct-forEach\bin\Debug\EnumStruct-forEach.pdb
+D:\MY FILE\Documents\school\C#\C--code\EnumStruct-forEach\EnumStruct-forEach\obj\Debug\EnumStruct-forEach.csproj.AssemblyReference.cache
+D:\MY FILE\Documents\school\C#\C--code\EnumStruct-forEach\EnumStruct-forEach\obj\Debug\EnumStruct-forEach.csproj.SuggestedBindingRedirects.cache
+D:\MY FILE\Documents\school\C#\C--code\EnumStruct-forEach\EnumStruct-forEach\obj\Debug\EnumStruct-forEach.csproj.CoreCompileInputs.cache
+D:\MY FILE\Documents\school\C#\C--code\EnumStruct-forEach\EnumStruct-forEach\obj\Debug\EnumStruct-forEach.exe
+D:\MY FILE\Documents\school\C#\C--code\EnumStruct-forEach\EnumStruct-forEach\obj\Debug\EnumStruct-forEach.pdb
