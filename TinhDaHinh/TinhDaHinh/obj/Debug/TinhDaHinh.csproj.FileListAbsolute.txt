@@ -1,0 +1,8 @@
+D:\MY FILE\Documents\school\C#\C--code\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.exe.config
+D:\MY FILE\Documents\school\C#\C--code\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.exe
+D:\MY FILE\Documents\school\C#\C--code\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.pdb
+D:\MY FILE\Documents\school\C#\C--code\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.csproj.AssemblyReference.cache
+D:\MY FILE\Documents\school\C#\C--code\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.csproj.SuggestedBindingRedirects.cache
+D:\MY FILE\Documents\school\C#\C--code\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.csproj.CoreCompileInputs.cache
+D:\MY FILE\Documents\school\C#\C--code\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.exe
+D:\MY FILE\Documents\school\C#\C--code\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.pdb
