@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Animal
 {
-    internal class Animal
+    abstract class Animal
     {
+        public void eat()
+        {
+            Console.WriteLine("Animal eat");
+        }
+        public void makeSound(){
+            Console.WriteLine("Animal make Sound");
+        }
     }
 }

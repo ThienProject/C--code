@@ -1,0 +1,8 @@
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\Animal\bin\Debug\Animal.exe.config
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\Animal\bin\Debug\Animal.exe
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\Animal\bin\Debug\Animal.pdb
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\Animal\obj\Debug\Animal.csproj.SuggestedBindingRedirects.cache
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\Animal\obj\Debug\Animal.exe
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\Animal\obj\Debug\Animal.pdb

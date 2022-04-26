@@ -10,6 +10,11 @@ namespace Animal
     {
         static void Main(string[] args)
         {
+            Bird bird = new Bird();
+            Cat cat = new Cat();
+            bird.fly();
+            cat.Run();
+            Console.ReadKey();
         }
     }
 }

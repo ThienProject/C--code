@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Animal
 {
-    internal class Bird
+    internal class Bird:Animal
     {
+        public void fly()
+        {
+            Console.WriteLine("Bỉdr Fly ");
+        }
     }
 }

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Animal
 {
-    internal class Cat
+    internal class Cat:Animal
     {
+        public void Run() {
+            Console.WriteLine("Cat Run");
+        }
     }
 }
