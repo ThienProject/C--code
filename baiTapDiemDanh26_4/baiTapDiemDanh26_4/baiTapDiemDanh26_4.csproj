@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{97B482F4-3ABF-487C-8998-E574E9BC5E15}</ProjectGuid>
+    <ProjectGuid>{9A03F69E-263D-4A53-BC41-6DBFB4B1D115}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>example_2</RootNamespace>
-    <AssemblyName>example-2</AssemblyName>
+    <RootNamespace>baiTapDiemDanh26_4</RootNamespace>
+    <AssemblyName>baiTapDiemDanh26_4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Document.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
