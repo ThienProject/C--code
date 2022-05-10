@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a03f69e-263d-4a53-bc41-6dbfb4b1d115": {
+      "ProjectGuid": "9a03f69e-263d-4a53-bc41-6dbfb4b1d115",
+      "DisplayName": "baiTapDiemDanh26_4",
+      "ColorIndex": 0
+    },
+    "5c8343e5-aca1-4ad0-923c-9cd9e3818c8c": {
+      "ProjectGuid": "5c8343e5-aca1-4ad0-923c-9cd9e3818c8c",
+      "DisplayName": "Animal",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -45,13 +45,16 @@ namespace baiTapDiemDanh26_4
                 if(this.DELTA_260 > 0)
                 {
                     Console.WriteLine("Phuong trình có 2 nghiệm ");
-                    x1260 = (-this.b260 + Math.Sqrt( this.DELTA_260 * this.DELTA_260 - 4*a260 *c260)) /( 2*a260);
-                    x2260 = (-this.b260 - Math.Sqrt(this.DELTA_260 * this.DELTA_260 - 4 * a260 * c260)) / (2 * a260);
+                    x1260 = (-this.b260 + Math.Sqrt( this.DELTA_260)) /( 2*a260);
+                    x2260 = (-this.b260 - Math.Sqrt(this.DELTA_260)) / (2 * a260);
+                    Console.WriteLine("x1 : " + x1260);
+                    Console.WriteLine("x2 : " + x2260);
                 }
                 else
                 {
-                    Console.WriteLine("Phuong trình có 1 nghiệm ");
+                    
                     x260 = -b260 / (2 * a260);
+                    Console.WriteLine("Phuong trình có 1 nghiệm " +x260);
                 }
             }
         }

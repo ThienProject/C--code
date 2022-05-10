@@ -5,3 +5,4 @@ D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\baiTapDiemDanh26_4\obj
 D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\baiTapDiemDanh26_4\obj\Debug\baiTapDiemDanh26_4.csproj.CoreCompileInputs.cache
 D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\baiTapDiemDanh26_4\obj\Debug\baiTapDiemDanh26_4.exe
 D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\baiTapDiemDanh26_4\obj\Debug\baiTapDiemDanh26_4.pdb
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh26_4\baiTapDiemDanh26_4\obj\Debug\baiTapDiemDanh26_4.csproj.AssemblyReference.cache
