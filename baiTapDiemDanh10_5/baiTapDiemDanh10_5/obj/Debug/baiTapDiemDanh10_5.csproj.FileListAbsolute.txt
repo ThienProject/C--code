@@ -1,0 +1,8 @@
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh10_5\baiTapDiemDanh10_5\bin\Debug\baiTapDiemDanh10_5.exe.config
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh10_5\baiTapDiemDanh10_5\bin\Debug\baiTapDiemDanh10_5.exe
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh10_5\baiTapDiemDanh10_5\bin\Debug\baiTapDiemDanh10_5.pdb
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh10_5\baiTapDiemDanh10_5\obj\Debug\baiTapDiemDanh10_5.csproj.AssemblyReference.cache
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh10_5\baiTapDiemDanh10_5\obj\Debug\baiTapDiemDanh10_5.csproj.SuggestedBindingRedirects.cache
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh10_5\baiTapDiemDanh10_5\obj\Debug\baiTapDiemDanh10_5.csproj.CoreCompileInputs.cache
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh10_5\baiTapDiemDanh10_5\obj\Debug\baiTapDiemDanh10_5.exe
+D:\MY FILE\Documents\school\C#\C--code\baiTapDiemDanh10_5\baiTapDiemDanh10_5\obj\Debug\baiTapDiemDanh10_5.pdb
