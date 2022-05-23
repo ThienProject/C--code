@@ -1,0 +1,8 @@
+D:\MY FILE\Documents\school\C#\C--code\Lab__01__managerStudent\Lab__01__managerStudent\bin\Debug\Lab__01__managerStudent.exe.config
+D:\MY FILE\Documents\school\C#\C--code\Lab__01__managerStudent\Lab__01__managerStudent\bin\Debug\Lab__01__managerStudent.exe
+D:\MY FILE\Documents\school\C#\C--code\Lab__01__managerStudent\Lab__01__managerStudent\bin\Debug\Lab__01__managerStudent.pdb
+D:\MY FILE\Documents\school\C#\C--code\Lab__01__managerStudent\Lab__01__managerStudent\obj\Debug\Lab__01__managerStudent.csproj.AssemblyReference.cache
+D:\MY FILE\Documents\school\C#\C--code\Lab__01__managerStudent\Lab__01__managerStudent\obj\Debug\Lab__01__managerStudent.csproj.SuggestedBindingRedirects.cache
+D:\MY FILE\Documents\school\C#\C--code\Lab__01__managerStudent\Lab__01__managerStudent\obj\Debug\Lab__01__managerStudent.csproj.CoreCompileInputs.cache
+D:\MY FILE\Documents\school\C#\C--code\Lab__01__managerStudent\Lab__01__managerStudent\obj\Debug\Lab__01__managerStudent.exe
+D:\MY FILE\Documents\school\C#\C--code\Lab__01__managerStudent\Lab__01__managerStudent\obj\Debug\Lab__01__managerStudent.pdb
