@@ -1,0 +1,8 @@
+D:\MY FILE\Documents\school\C#\C--code\OOP-14example\example-4\bin\Debug\example-4.exe.config
+D:\MY FILE\Documents\school\C#\C--code\OOP-14example\example-4\bin\Debug\example-4.exe
+D:\MY FILE\Documents\school\C#\C--code\OOP-14example\example-4\bin\Debug\example-4.pdb
+D:\MY FILE\Documents\school\C#\C--code\OOP-14example\example-4\obj\Debug\example-4.csproj.AssemblyReference.cache
+D:\MY FILE\Documents\school\C#\C--code\OOP-14example\example-4\obj\Debug\example-4.csproj.SuggestedBindingRedirects.cache
+D:\MY FILE\Documents\school\C#\C--code\OOP-14example\example-4\obj\Debug\example-4.csproj.CoreCompileInputs.cache
+D:\MY FILE\Documents\school\C#\C--code\OOP-14example\example-4\obj\Debug\example-4.exe
+D:\MY FILE\Documents\school\C#\C--code\OOP-14example\example-4\obj\Debug\example-4.pdb

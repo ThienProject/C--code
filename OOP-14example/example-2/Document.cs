@@ -9,6 +9,13 @@ namespace example_2
     internal class Document
     {
         protected int idDoc260;
+
+        public Document(int idDoc260
+            )
+        {
+            this.idDoc260 = idDoc260;
+        }
+
         protected string publishingHouse260;
         protected string docNum260;
 
